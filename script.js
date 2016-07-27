@@ -26,7 +26,7 @@ var palette = {
     "yellowgreen": "#738A05"
 }
 var nodes = [
-    {name: "Colloquium mentum: Stuff Matters", target:[1],  targetStrength:[6],href: "stuffmatters.html"},
+    {name: "Colloquium mentum: Stuff Matters", target:[1],  targetStrength:[6],href: "posts/stuffmatters.html"},
     {name: "July 2016", target:[0], targetStrength:[4], href: "july2016.html"}
 ]
 var links = [];
