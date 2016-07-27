@@ -38,7 +38,6 @@ for(var i=0; i<nodes.length; i++){
                     source: nodes[i],
                     target: nodes[nodes[i].target[x]],
                     strength: nodes[i].targetStrength[x]
-                    weight: 1.0
                 })
         }
     }
