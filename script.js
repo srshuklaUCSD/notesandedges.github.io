@@ -38,6 +38,7 @@ for(var i=0; i<nodes.length; i++){
                     source: nodes[i],
                     target: nodes[nodes[i].target[x]],
                     strength: nodes[i].targetStrength[x]
+                    weight: 1.0
                 })
         }
     }
@@ -51,7 +52,7 @@ var myChart = d3.select('#chart')
     .attr('height', h)
 var force = d3.layout.force()
     .nodes(nodes)
-    .links(links)
+    .links([]])
     .gravity(.3)
     .charge(-1000)
     .size([w,h])
