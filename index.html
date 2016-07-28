@@ -8,18 +8,26 @@
 		<link rel="stylesheet" type="text/css" href="/css/style.css">
 
   <style>
-    h1{
+    .headers{
       padding: 75px 75px 0px 150px;
-      font-family: Lucida Console, Monaco, monospace;
+    }
+    h1{
+
+        font-family: Lucida Console, Monaco, monospace;
+    }
+    h3{
+
+        position: relative;
+        right: 75px;
+        top: 7px;
     }
     a:link{
       text-decoration: none;
     }
 
     div.text{
-      padding:15px 75px 0px 150px;
+        padding:85px 75px 0px 150px;
         font-size: 80%;
-
     }
       h6{
           padding-top: 25px;
@@ -27,8 +35,11 @@
   </style>
 </head>
 <body>
-    <div style="clear: both">
-        <h1><a href=index.html>notes&edges</a></h1>
+    <div class="headers" style="clear: both">
+        <h1 style="float: left"><a href=index.html>notes&edges</a></h1>
+        <div class="tiny">
+            <h3 style="float: right"><a href="about.html">about</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search</h3>
+        </div>
     </div>
 
     <div class="text"><p>Click nodes to drag around, double click to read</p></div>
