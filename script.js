@@ -36,8 +36,7 @@ for(var i=0; i<nodes.length; i++){
 
                 links.push({
                     source: nodes[i],
-                    target: nodes[nodes[i].target[x]],
-                    strength: nodes[i].targetStrength[x]
+                    target: nodes[nodes[i].target[x]]
                 })
         }
     }
