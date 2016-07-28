@@ -1,7 +1,7 @@
 //things to do: figure out how to incorporate tags, include about and search pages (figure out how to add them to website), add web to stuff matters post
 
 
-var w = 700,
+var w = 800,
     h=400;
 var circleWidth = 5;
 
