@@ -1,7 +1,7 @@
 //things to do: figure out how to incorporate tags, include about and search pages (figure out how to add them to website), add web to stuff matters post
 
 
-var w = 650,
+var w = 700,
     h=400;
 var circleWidth = 5;
 
@@ -46,7 +46,7 @@ for(var i=0; i<nodes.length; i++){
 var tempColor;
 var myChart = d3.select('#chart')
     .append('svg')
-    .attr('width', (w*5)/4)
+    .attr('width', (w))
     .attr('height', h)
 var force = d3.layout.force()
     .nodes(nodes)
