@@ -1,7 +1,7 @@
 //things to do: figure out how to incorporate tags, include about and search pages (figure out how to add them to website), add web to stuff matters post
 
 
-var w = 900,
+var w = 750,
     h=400;
 var circleWidth = 5;
 
@@ -26,8 +26,8 @@ var palette = {
     "yellowgreen": "#738A05"
 }
 var nodes = [
-    {name: "parent", target:[1]},
-    {name: "child", target:[0]}
+    {name: "Colloquium mentum: 7 min", target:[1]href: "stuffmatters.html"},
+    {name: "July 2016: 3 min", target:[0], targetStrength:[4], href: "july2016.html"}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
