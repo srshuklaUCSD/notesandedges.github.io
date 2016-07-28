@@ -46,7 +46,7 @@ for(var i=0; i<nodes.length; i++){
 var tempColor;
 var myChart = d3.select('#chart')
     .append('svg')
-    .attr('width', (w/2))
+    .attr('width', (w*2))
     .attr('height', h)
 var force = d3.layout.force()
     .nodes(nodes)
