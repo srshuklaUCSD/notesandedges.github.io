@@ -28,7 +28,6 @@ var palette = {
 var nodes = [
     {name: "Colloquium mentum: 7 min", target:[1],href: "posts/stuffmatters.html"},
     {name: "July 2016: 3 min", target:[0],href: "posts/july2016.html"},
-    {name: "Making Shrikhand: 3 min", target:[1],href: "posts/makingshrikhand.html"}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
