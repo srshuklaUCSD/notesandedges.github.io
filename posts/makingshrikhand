@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Making Shrikhand</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        .headers{
+            padding: 75px 75px 0px 150px;
+        }
+        h1{
+
+            font-family: Lucida Console, Monaco, monospace;
+        }
+        h3{
+
+            position: relative;
+            right: 75px;
+            top: 7px;
+        }
+        a:link{
+            text-decoration: none;
+        }
+
+        div.text{
+            padding:85px 125px 100px 150px;
+            font-family: Verdana, Geneva, sans-serif;
+            font-size: 90%;
+        }
+    </style>
+</head>
+<body>
+<div class="headers" style="clear: both">
+    <h1 style="float: left"><a href="https://notesandedges.github.io/">notes&edges</a></h1>
+    <div class="tiny">
+            <h3 style="float: right"><a href="https://notesandedges.github.io/about.html">about</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/notesandedges/notesandedges.github.io">github</a></h3>
+    </div>
+</div>
+<div class=text>
+    <h2>Making <i>Shrikhand</i>...................8/13/16</h2>
+    <!-- add picture -->
+    <p>One thing my parents like to do together is make Indian sweets. It&#39;s kind of like team bonding, but for our 
+    family. Like…family bonding. Yeah, that&#39;s it.</p>
+
+    <p>After some years of observation, I&#39;ve decided that making Indian sweets is an activity to be contained within
+    the privacy of your own home. This way, you&#39;re sheltered from opinionated relatives who each have something to say
+    about the process behind making the traditional cuisine.</p>
+    <p></p>
+    <p>My parents themselves are very opinionated as well:</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Us: *return from relatives&#39; house*</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My mom: I&#39;d be embarrassed to serve mohanthal like that to guests.</p>
+    <p></p>
+    <p></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Us: *watching a YouTube tutorial on making shrikhand*</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My dad: He used saffron coloring. Somebody shoot him.</p>
+    <p></p>
+
+    <p> viewed as a rather boring topic.</p>
+
+    <p>t&#39;s good in moderation.</p>
+
+    <p>mes he can mention his alma mater without seeming borderline conceited).</p>
+
+    <p> topic.</p>
+
+    <p> from other carbon structures. </p>
+
+    <p> a way that attracts and retains younger generations.</p>
+
+    <p>teps.</p>
+
+    <p>re education in MS may shape my thoughts 20 years from now.</p>
+
+    <p>nteresting to think about.</p>
+
+    <p>All in all, this book is good to reread if I ever forget why I like science.</p>
+
+</div>
+</body>
+</html>
+
