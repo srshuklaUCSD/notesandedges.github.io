@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>September 2016</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        .headers{
+            padding: 75px 75px 0px 150px;
+        }
+        h1{
+            font-family: Lucida Console, Monaco, monospace;
+        }
+        h3{
+            position: relative;
+            right: 75px;
+            top: 7px;
+        }
+        a:link{
+            text-decoration: none;
+        }
+        div.text{
+            padding:85px 125px 100px 150px;
+            font-family: Verdana, Geneva, sans-serif;
+            font-size: 90%;
+        }
+    </style>
+</head>
+<body>
+<div class="headers" style="clear: both">
+    <h1 style="float: left"><a href="https://notesandedges.github.io/">notes&edges</a></h1>
+    <div class="tiny">
+            <h3 style="float: right"><a href="https://notesandedges.github.io/about.html">about</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/notesandedges/notesandedges.github.io">github</a></h3>
+    </div>
+</div>
+<div class=text>
+    <h2>September 2016...................9/18/16</h2>
+    <p>When I was younger, September was my favorite month of the year. The smell of graphite from freshly sharpened pencils, 
+    the dull sheen of smooth erasers, the promising white pages of new notebooks, the feel of new jeans (perhaps my 
+    inclination toward materials science was clear from a young age). Then there was the excitement of seeing old friends, 
+    starting new classes, and finally this renewal of energy I received coming home each day to the gentle breeze swaying 
+    the evergreens, oaks and maples that rose up from my backyard against the blue sky, under the tame sun, from dark green 
+    to bright to just turning. I felt like Heidi, living in the mountains, without any worries or cares.
+    </p>
+
+    <p> As I grew older my anticipation for September remained but became increasingly colored by various stresses: 
+    maintaining good grades, getting involved in extracurriculars, dealing with overcommitment, applying to college.
+    </p>
+
+    <p>And now here I am, at college, that the looming mountain which before seemed so far away. In some ways it&#39;s still 
+    looming&mdash;I still have to climb it, and I&#39;m not looking forward to what&#39;s on the other side. But walking back 
+    from class last week, alongside the green Cut and past the giant pole, a breeze swept past me and I thought &quot;this is 
+    when the trees start swaying at home and the sky is blue and the sun isn&#39;t too loud or too mute, but just right&quot;. I didn&#39;t actually think that, but I got that impression of walking up my driveway and seeing the image play out before me. I guess I was homesick for a moment there.
+    </p>
+
+    <p>This September I didn&#39;t bother with newly sharpened pencils&mdash;I&#39;m trying to see how long my purple 
+    mechanical pencil lasts before I lose or break it. Same with my erasers and pens, salvaged from forgotten pencil 
+    cases and desk drawers back at home. I&#39;m only two weeks into school and my notebooks are already a quarter of 
+    the way filled. I haven&#39;t worn jeans since two winters ago. It drizzles unpredictably in Pittsburgh and the sun 
+    hides behind fickle clouds.
+    </p>
+
+    <p>    Because it is momentous, not just in the sense that I&#39;ll be doing my own laundry, or even that I&#39;ll be away from home and finding my way in a completely
+        new environment. It&#39;s realizing that, in the long run, I&#39;m all I&#39;ll ever have.
+    </p>
+        <p>    Because it is momentous, not just in the sense that I&#39;ll be doing my own laundry, or even that I&#39;ll be away from home and finding my way in a completely
+        new environment. It&#39;s realizing that, in the long run, I&#39;m all I&#39;ll ever have.
+    </p>
+
+    <p>    It&#39;s a time where your thoughts have no happy place. I try not to look back, nor to the future, but what else is there to think about besides a limbo of
+        sunlight, the smell of bread my dad makes every other Sunday as he transitions into old&ndash;people&ndash;hood, the thunder of rain on our roof, the inexplicable
+        absence of rainbows?
+    </p>
+
+    <p>    It&#39;s also a time to enjoy the summer as it&#39;s supposed to be. This week I made french toast with blueberry syrup and cottage cheese that tasted horrible
+        (because I don&#39;t like french toast much anyway, but our pancake batter had expired), went rollerblading, <a href="    http://6abc.com/news/2-women-struck-by-lightning-on-point-pleasant-beach/1429867/
+">narrowly escaped being struck by lightning</a> after a trip to the beach, where I buried myself in the sand and let the fine silica grains rub away at my dead skin,
+        finished reading <i>Stuff Matters</i>, reread two YA series in just a few days, among other things to recall my childhood before it ends.
+    </p>
+
+</div>
+</body>
+</html>
