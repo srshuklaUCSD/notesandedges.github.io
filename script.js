@@ -89,7 +89,7 @@ node.append('circle')
     .attr('cx', function(d){return d.x;})
     .attr('cy', function(d){return d.y;})
     .attr('r', circleWidth)
-    .attr('fill', palette.pink)
+    .attr('fill', palette.purple)
 
 
 
