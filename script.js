@@ -30,7 +30,7 @@ var nodes = [
     {name: "July 2016: 3 min", target:[0],href: "posts/july2016.html"},
     {name: "Making Shrikhand: 3 min", target:[1],href: "posts/makingshrikhand.html"},
     {name: "August 2016: 6 min", target:[1],href: "posts/august2016.html"},
-    {name: "September 2016: 6 min", target:[1],href: "posts/sept2016.html"}
+    {name: "September 2016: 6 min", target:[3],href: "posts/sept2016.html"}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
