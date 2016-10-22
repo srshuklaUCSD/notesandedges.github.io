@@ -44,7 +44,7 @@ p {
   max-width: 1200px;
   margin: 0 auto;
   margin-top:10px;
-  font-size: .9em;
+  font-size: .6em;
 }
  
 @media all and (max-width: 500px) {
