@@ -26,14 +26,14 @@ var palette = {
     "yellowgreen": "#738A05"
 }
 var nodes = [
-    {name: "Colloquium mentum: 7 min", target:[1],href: "posts/stuffmatters.html"},
-    {name: "July 2016: 3 min", target:[0],href: "posts/july2016.html"},
-    {name: "Making Shrikhand: 3 min", target:[1],href: "posts/makingshrikhand.html"},
-    {name: "August 2016: 6 min", target:[1],href: "posts/august2016.html"},
-    {name: "September 2016: 6 min", target:[3],href: "posts/sept2016.html"},
-    {name: "Adventures of a Non-Music Major: 6 min", target:[3,4],href: "posts/adventures1.html"},
-    {name: "October 2016: 4 min", target:[4],href: "posts/oct2016.html"},
-    {name: "Nov/Dec 2016: 7 min", target:[6],href: "posts/novdec2016.html"}
+    {name: "Colloquium mentum", target:[1],href: "posts/stuffmatters.html"},
+    {name: "July 2016", target:[0],href: "posts/july2016.html"},
+    {name: "Making Shrikhand", target:[1],href: "posts/makingshrikhand.html"},
+    {name: "August 2016", target:[1],href: "posts/august2016.html"},
+    {name: "September 2016", target:[3],href: "posts/sept2016.html"},
+    {name: "Adventures of a Non-Music Major", target:[3,4],href: "posts/adventures1.html"},
+    {name: "October 2016", target:[4],href: "posts/oct2016.html"},
+    {name: "Nov/Dec 2016", target:[6],href: "posts/novdec2016.html"}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
