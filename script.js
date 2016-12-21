@@ -26,14 +26,14 @@ var palette = {
     "yellowgreen": "#738A05"
 }
 var nodes = [
-    {name: "Colloquium mentum", target:[1],href: "posts/stuffmatters.html"},
-    {name: "July 2016", target:[0],href: "posts/july2016.html"},
-    {name: "Making Shrikhand", target:[1],href: "posts/makingshrikhand.html"},
-    {name: "August 2016", target:[1],href: "posts/august2016.html"},
-    {name: "September 2016", target:[3],href: "posts/sept2016.html"},
-    {name: "Adventures of a Non-Music Major", target:[3,4],href: "posts/adventures1.html"},
+    {name: "Colloquium mentum", target:[3,7],href: "posts/stuffmatters.html"},
+    {name: "July 2016", target:[3,7],href: "posts/july2016.html"},
+    {name: "Making Shrikhand", target:[3],href: "posts/makingshrikhand.html"},
+    {name: "August 2016", target:[4],href: "posts/august2016.html"},
+    {name: "September 2016", target:[0],href: "posts/sept2016.html"},
+    {name: "Adventures of a Non-Music Major", target:[1],href: "posts/adventures1.html"},
     {name: "October 2016", target:[4],href: "posts/oct2016.html"},
-    {name: "Nov/Dec 2016", target:[6],href: "posts/novdec2016.html"}
+    {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/novdec2016.html"}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
