@@ -33,7 +33,7 @@ var nodes = [
     {name: "September 2016", target:[0],href: "posts/sept2016.html"},//4
     {name: "Adventures of a Non-Music Major", target:[1],href: "posts/adventures1.html"},//5
     {name: "October 2016", target:[4],href: "posts/oct2016.html"},//6
-    {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/novdec2016.html"},//7
+    {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/jan2017.html"},//7
     {name: "January 2017", target:[7],href: "posts/jan2017.html"}//8
 ]
 var links = [];
