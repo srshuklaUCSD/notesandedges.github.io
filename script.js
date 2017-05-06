@@ -36,7 +36,8 @@ var nodes = [
     {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/novdec2016.html", width: 10},//7
     {name: "January 2017", target:[7],href: "posts/jan2017.html", width: 5},//8
     {name: "March 2017", target:[5,8],href: "posts/march2017.html", width: 5},//9
-    {name: "April 2017", target:[2],href: "posts/april2017.html", width: 5}//9
+    {name: "April 2017", target:[2],href: "posts/april2017.html", width: 5},//9
+    {name: "Am I Insane?", target:[2],href: "posts/amiinsane.html", width: 5}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
