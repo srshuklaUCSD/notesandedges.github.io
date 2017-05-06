@@ -103,7 +103,7 @@ node.append('circle')
 
 node.append('text')
     .text(function(d){return d.name})
-    .font(function(d){return d.width})
+    .style("font",function(d){return d.width})
 
 force.on('tick', function(e){
     node.attr('transform', function(d,i){
