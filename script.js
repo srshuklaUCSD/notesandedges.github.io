@@ -26,17 +26,17 @@ var palette = {
     "yellowgreen": "#738A05"
 }
 var nodes = [
-    {name: "Colloquium mentum", target:[3,7],href: "posts/stuffmatters.html"}, //0
-    {name: "July 2016", target:[3,7],href: "posts/july2016.html"}, //1
-    {name: "Making Shrikhand", target:[3],href: "posts/makingshrikhand.html"},//2
-    {name: "August 2016", target:[4],href: "posts/august2016.html"},//3
-    {name: "September 2016", target:[0],href: "posts/sept2016.html"},//4
-    {name: "Adventures of a Non-Music Major", target:[1],href: "posts/adventures1.html"},//5
-    {name: "October 2016", target:[4],href: "posts/oct2016.html"},//6
-    {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/novdec2016.html"},//7
-    {name: "January 2017", target:[7],href: "posts/jan2017.html"},//8
-    {name: "March 2017", target:[5,8],href: "posts/march2017.html"},//9
-    {name: "April 2017", target:[2],href: "posts/april2017.html"}//9
+    {name: "Colloquium mentum", target:[3,7],href: "posts/stuffmatters.html", width: 10}, //0
+    {name: "July 2016", target:[3,7],href: "posts/july2016.html", width: 5}, //1
+    {name: "Making Shrikhand", target:[3],href: "posts/makingshrikhand.html", width: 5},//2
+    {name: "August 2016", target:[4],href: "posts/august2016.html", width: 5},//3
+    {name: "September 2016", target:[0],href: "posts/sept2016.html", width: 5},//4
+    {name: "Adventures of a Non-Music Major", target:[1],href: "posts/adventures1.html", width: 5},//5
+    {name: "October 2016", target:[4],href: "posts/oct2016.html", width: 5},//6
+    {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/novdec2016.html", width: 5},//7
+    {name: "January 2017", target:[7],href: "posts/jan2017.html", width: 5},//8
+    {name: "March 2017", target:[5,8],href: "posts/march2017.html", width: 5},//9
+    {name: "April 2017", target:[2],href: "posts/april2017.html", width: 5}//9
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
@@ -94,7 +94,7 @@ var node = myChart.selectAll('circle')
 node.append('circle')
     .attr('cx', function(d){return d.x;})
     .attr('cy', function(d){return d.y;})
-    .attr('r', circleWidth)
+    .attr('r', function(d){return d.width;})
     .attr('fill', '#551A8B')
 
 
