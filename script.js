@@ -26,18 +26,18 @@ var palette = {
     "yellowgreen": "#738A05"
 }
 var nodes = [
-    {name: "Colloquium mentum", target:[3,7],href: "posts/stuffmatters.html", width: 5}, //0
-    {name: "July 2016", target:[3,7],href: "posts/july2016.html", width: 5}, //1
-    {name: "Making Shrikhand", target:[3],href: "posts/makingshrikhand.html", width: 5},//2
-    {name: "August 2016", target:[4],href: "posts/august2016.html", width: 5},//3
-    {name: "September 2016", target:[0],href: "posts/sept2016.html", width: 5},//4
-    {name: "Adventures of a Non-Music Major", target:[1],href: "posts/adventures1.html", width: 5},//5
-    {name: "October 2016", target:[4],href: "posts/oct2016.html", width: 5},//6
-    {name: "Nov/Dec 2016", target:[3,4,5],href: "posts/novdec2016.html", width: 10},//7
-    {name: "January 2017", target:[7],href: "posts/jan2017.html", width: 5},//8
-    {name: "March 2017", target:[5,8],href: "posts/march2017.html", width: 5},//9
-    {name: "April 2017", target:[2],href: "posts/april2017.html", width: 5},//9
-    {name: "Am I Insane?", target:[2],href: "posts/amiinsane.html", width: 5}
+    {name: "Colloquium mentum", target:[7,8],href: "posts/stuffmatters.html", width: 2}, //0
+    {name: "July 2016", target:[3,4,6,7,8,9,11],href: "posts/july2016.html", width: 7}, //1
+    {name: "Making Shrikhand", target:[7],href: "posts/makingshrikhand.html", width: 1},//2
+    {name: "August 2016", target:[1,4,5,6,7,8,9,10,11],href: "posts/august2016.html", width: 9},//3
+    {name: "September 2016", target:[1,3,5,7,8,9,11],href: "posts/sept2016.html", width: 7},//4
+    {name: "Adventures of a Non-Music Major", target:[3,4,7,8,9,11],href: "posts/adventures1.html", width: 6},//5
+    {name: "October 2016", target:[3,9],href: "posts/oct2016.html", width: 2},//6
+    {name: "Nov/Dec 2016", target:[0,1,3,4,5,8,9,11],href: "posts/novdec2016.html", width: 8},//7
+    {name: "January 2017", target:[0,1,3,4,5,7,9,11],href: "posts/jan2017.html", width: 8},//8
+    {name: "March 2017", target:[3,4,5,6,7,8,11],href: "posts/march2017.html", width: 7},//9
+    {name: "April 2017", target:[3],href: "posts/april2017.html", width: 1},//10
+    {name: "Am I Insane?", target:[1,3,4,5,7,8,9],href: "posts/amiinsane.html", width: 7}//11
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
