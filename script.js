@@ -6,6 +6,7 @@ var w = 680,
 var circleWidth = 5;
 
 var palette = {
+    "white": "#ffffff",
     "lightgray": "#819090",
     "gray": "#708284",
     "mediumgray": "#536870",
@@ -67,7 +68,7 @@ var force = d3.layout.force()
 var d=0;
 var link = myChart.selectAll('line')
     .data(links).enter().append('line')
-    .attr('stroke', palette.lightgray)
+    .attr('stroke', palette.white)
 
 var node = myChart.selectAll('circle')
     .data(nodes).enter()
