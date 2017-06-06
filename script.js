@@ -40,7 +40,8 @@ var nodes = [
     {name: "January 2017", target:[0,1,3,4,5,7,9,11],href: "posts/jan2017.html", width: 8},//8
     {name: "March 2017", target:[3,4,5,6,7,8,11],href: "posts/march2017.html", width: 7},//9
     {name: "April 2017", target:[3],href: "posts/april2017.html", width: 5},//10
-    {name: "Am I Insane?", target:[1,3,4,5,7,8,9],href: "posts/amiinsane.html", width: 7}//11
+    {name: "Am I Insane?", target:[1,3,4,5,7,8,9],href: "posts/amiinsane.html", width: 7},//11
+    {name: "The 47 ronin and ZDT", target: [3,4,6], href: "posts/fortysevenronin.html", width: 12}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
