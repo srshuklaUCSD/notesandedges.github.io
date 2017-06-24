@@ -36,7 +36,7 @@ var nodes = [
     {name: "September 2016", target:[5,0,1,4,6,7,8,9,11,12,13],href: "posts/sept2016.html", width: 11},//4
     {name: "Adventures of a Non-Music Major", target:[3,4,7,8,9,11,13,14],href: "posts/adventures1.html", width: 8},//5
     {name: "October 2016", target:[1,3,4,9,11],href: "posts/oct2016.html", width: 5},//6
-    {name: "Nov/Dec 2016", target:[5,0,1,3,4,8,911,12,13,14],href: "posts/novdec2016.html", width: 11},//7
+    {name: "Nov/Dec 2016", target:[5,0,1,3,4,8,9,11,12,13,14],href: "posts/novdec2016.html", width: 11},//7
     {name: "January 2017", target:[5,0,1,3,4,7,9,11,13],href: "posts/jan2017.html", width: 9},//8
     {name: "March 2017", target:[5,1,3,4,6,7,8,11,13],href: "posts/march2017.html", width: 9},//9
     {name: "April 2017", target:[3],href: "posts/april2017.html", width: 5},//10
