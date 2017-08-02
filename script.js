@@ -43,6 +43,7 @@ var nodes = [
     {name: "Am I Insane?", target:[5,0,1,3,4,6,7,8,9,13],href: "posts/amiinsane.html", width: 10},//11
     {name: "The 47 ronin and ZDT", target: [3,4,7,13,14], href: "posts/fortysevenronin.html", width: 5},//12
     {name: "June 2017", target:[5,3,4,7,8,9,11,12],href: "posts/june2017.html", width: 8},//13
+    {name: "Meeting with Prof. Okazaki", target:[5,3,4,8,12],href: "posts/okazaki.html", width: 8},//13
     {name: "Week 1", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week01", width: 5},//14
     {name: "Week 2", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week02", width: 5},//14
     {name: "Week 3", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week03", width: 5},//14
