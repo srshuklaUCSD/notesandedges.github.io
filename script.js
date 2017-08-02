@@ -2,7 +2,7 @@
 
 
 var w = 680,
-    h=400;
+    h=800;
 var circleWidth = 5;
 
 var palette = {
