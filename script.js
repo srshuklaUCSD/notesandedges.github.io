@@ -43,18 +43,18 @@ var nodes = [
     {name: "Am I Insane?", target:[5,0,1,3,4,6,7,8,9,13],href: "posts/amiinsane.html", width: 10},//11
     {name: "The 47 ronin and ZDT", target: [3,4,7,13,14], href: "posts/fortysevenronin.html", width: 5},//12
     {name: "June 2017", target:[5,3,4,7,8,9,11,12],href: "posts/june2017.html", width: 8},//13
-    {name: "Meeting with Prof. Okazaki", target:[5,3,4,8,12],href: "posts/okazaki.html", width: 8},//13
-    {name: "Week 1", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week01", width: 5},//14
-    {name: "Week 2", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week02", width: 5},//14
-    {name: "Week 3", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week03", width: 5},//14
-    {name: "Week 4", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week04", width: 5},//14
-    {name: "Week 5", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week05", width: 5}//14
-    {name: "RoboCup 2017", target:[5,3,4,1,7],href: "posts/robocup17.html", width: 8},
-    {name: "Week 6", target:[1,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week06", width: 5}//14
-    {name: "Week 7", target:[5,7,9],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week07", width: 5}//14
-    {name: "Week 8", target:[5,7,6],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week08", width: 5}//14
-    {name: "Week 9", target:[5,3,9],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week09", width: 5}//14
-    {name: "Week 10", target:[5,7,2],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week10", width: 5}//14
+    {name: "Meeting with Prof. Okazaki", target:[5,3,4,8,12],href: "posts/okazaki.html", width: 8},//14
+    {name: "Week 1", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week01", width: 5},//15
+    {name: "Week 2", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week02", width: 5},//16
+    {name: "Week 3", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week03", width: 5},//17
+    {name: "Week 4", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week04", width: 5},//18
+    {name: "Week 5", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week05", width: 5},//19
+    {name: "RoboCup 2017", target:[5,3,4,1,7],href: "posts/robocup17.html", width: 8},//20
+    {name: "Week 6", target:[1,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week06", width: 5},//21
+    {name: "Week 7", target:[5,7,9],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week07", width: 5},//22
+    {name: "Week 8", target:[5,7,6],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week08", width: 5},//23
+    {name: "Week 9", target:[5,3,9],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week09", width: 5},//24
+    {name: "Week 10", target:[5,7,2],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week10", width: 5}//25
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
