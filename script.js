@@ -49,6 +49,7 @@ var nodes = [
     {name: "Week 3", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week03", width: 5},//14
     {name: "Week 4", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week04", width: 5},//14
     {name: "Week 5", target:[5,7,12],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week05", width: 5}//14
+    {name: "RoboCup 2017", target:[5,3,4,1,7],href: "posts/robocup17.html", width: 8}
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
