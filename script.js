@@ -54,8 +54,8 @@ var nodes = [
     {name: "Week 7", target:[5,7,9],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week07", width: 5},//22
     {name: "Week 8", target:[5,7,6],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week08", width: 5},//23
     {name: "Week 9", target:[5,3,9],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week09", width: 5},//24
-    {name: "Week 10", target:[5,7,2],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week10", width: 5}//25
-    {name: "Rakuzan Kakuozan", target:[2,3,4,1],href: "posts/rakuzankakuozan.html", width: 6},//20
+    {name: "Week 10", target:[5,7,2],href: "http://nakatani-ries.rice.edu/student-profiles/2017-2/2017-u-s-fellows/2017-shivani-shukla/#Shukla_Week10", width: 5},//25
+    {name: "Rakuzan Kakuozan", target:[2,3,4,1],href: "posts/rakuzankakuozan.html", width: 6}//20
 ]
 var links = [];
 for(var i=0; i<nodes.length; i++){
