@@ -37,8 +37,6 @@ strong {
  
 p {
   margin-bottom: .5em;
-  margin-left:150px;
-  margin-right:150px;
 }
  
 .container {
@@ -47,8 +45,6 @@ p {
   margin: 0 auto;
   margin-top:10px;
   font-size: .7em;
-  margin-left:150px;
-  margin-right:150px;
 }
  
 @media all and (max-width: 500px) {
