@@ -27,8 +27,6 @@ body {
   line-height: 1.2em;
   background: #FFFFFF;
   color: #475B62;
- margin-right: 10px;
- margin-left: 10px;
 }
  
 strong {
@@ -44,10 +42,8 @@ p {
 .container {
   width: 80%;
   max-width: 1200px;
-  /*margin: 0 auto;*/
- /*margin-right: 150px;
- margin-left: 150px;
-  margin-top:10px;*/
+  margin: 0 auto;
+  margin-top:10px;
   font-size: .7em;
 }
  
