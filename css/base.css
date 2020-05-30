@@ -49,7 +49,7 @@ p {
  
 @media all and (max-width: 500px) {
   h2 {
-    padding-left: 10px;
+    padding-left: 20px;
     text-align: center;
   }
   .container {
