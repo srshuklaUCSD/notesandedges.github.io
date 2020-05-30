@@ -23,10 +23,12 @@ html,body,div,span,applet,object,iframe,p,blockquote,pre,a,abbr,acronym,address,
 body {
   font-family: "Exo 2", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 5em;
   line-height: 1.2em;
   background: #FFFFFF;
   color: #475B62;
+ margin-right: 150px;
+ margin-left: 150px;
 }
  
 strong {
