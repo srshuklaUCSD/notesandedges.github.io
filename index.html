@@ -8,8 +8,18 @@
 		<link rel="stylesheet" type="text/css" href="/css/base.css">
 		<link rel="stylesheet" type="text/css" href="/css/style.css">
 	<style>
+		@media (max-width: 480px) {
+			.content{
+				margin-left: 20px;
+			}
+		}
+		@media (max-width: 320px) {
+			.content{
+				margin-left: 10px;
+			}
+		}
 		.headers{
-			padding: 75px 100px 0px 100px;
+			padding: 75px 600px 0px 600px;
 		}
 		h1{/*Heading for Pages bar, top right*/
 			font-family: Lucida Console, Monaco, monospace;
@@ -23,7 +33,7 @@
 		}
 		div.text{
 			text-align:justify;
-			padding:85px 100px 0px 100px;
+			padding:85px 600px 0px 600px;
 			font-size: 120%;
 		}
 		img {
@@ -38,6 +48,7 @@
 	</style>
 </head>
 <body>
+ <div class="content">
     <div class="headers" style="clear: both">
         <h1 style="float: left"><a href=index.html>notes&edges</a></h1>
         <div class="tiny">
@@ -84,5 +95,6 @@
     <center><h6>Copyright &copy; 2020</h6></center>
   <!--<script src="https://d3js.org/d3.v3.js"></script>
   <script src="script.js"></script>-->
+ </div>
 </body>
 </html>
